@@ -1,3 +1,3 @@
-Minicurso Git IFSP
+Minicurso Git IFSP Araraquara
 ---
 Repositório para teste minicurso Git.
